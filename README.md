@@ -1,8 +1,10 @@
-# Kompass | Local LLM + RAG Chatbot for International Student Onboarding
+# BA26 Project B - 06 Local LLMAgent | Kompass 
+
+![Logo](./banner.png "Project Logo")
 
 ## Project Overview
 
-This project develops **Kompass**, a conversational AI assistant for international students at Hochschule Emden/Leer. The system uses a **Local LLM + RAG (Retrieval-Augmented Generation)** architecture to answer onboarding questions strictly from official university sources, always citing where the information came from.
+This project develops **Kompass**, a conversational AI assistant for international students at Hochschule Emden/Leer. The system uses a **Local LLM + RAG** architecture to answer onboarding questions strictly from official university sources, always citing where the information came from.
 
 The project is based on content from **Moodle pages** (General Information, Semester pages) and **linked PDF documents** maintained by the Coordination Office. The chatbot retrieves relevant content before generating answers, ensuring responses are grounded in verified information rather than hallucinated.
 
@@ -222,4 +224,3 @@ The project topic and methodological direction are now defined as:
 **Local LLM + RAG Chatbot for International Student Onboarding using Moodle content and PDF documents as the knowledge base, with source citations and admin monitoring.**
 
 System results and evaluation metrics will be added to this README once the implementation and evaluation phase is completed.
-# Kompass
