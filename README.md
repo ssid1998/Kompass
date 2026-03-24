@@ -1,5 +1,3 @@
-# BA26 Project B - 06 Local LLMAgent | Kompass 
-
 ![Logo](./banner.png "Project Logo")
 
 ## Project Overview
